@@ -2,5 +2,5 @@
 
 Captura de pantalla de lsblk en Ubuntu Server:
 
-![lsblk en Ubuntu Server](p1-l1.png)
+![lsblk en Ubuntu Server](capturas/p1-l1.png)
 

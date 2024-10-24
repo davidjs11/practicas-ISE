@@ -2,5 +2,5 @@
 
 Captura de pantalla de lsblk y /etc/fstab en Rocky Linux:
 
-![lsblk y /etc/fstab en Rocky Linux](p1-l2.png)
+![lsblk y /etc/fstab en Rocky Linux](capturas/p1-l2.png)
 
